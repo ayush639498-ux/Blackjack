@@ -33,7 +33,7 @@ h2,h3{
 
     color: white;
     font-style: italic;
-    font-weight: bold;
+    font-weight: bolder;
 }
 
 button{
@@ -62,4 +62,5 @@ background-color: rgb(176, 129, 1);
 {
 
     background-color: brown;
+
 }
